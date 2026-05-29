@@ -286,8 +286,4 @@ Licensed under the MIT License. See [LICENSE](LICENSE).
 
 ---
 
-<p align="center">
-  Built by <a href="https://github.com/403errors">403errors</a> ·
-  <a href="https://github.com/403errors/repomind">Star on GitHub</a> ·
-  <a href="https://github.com/403errors/repomind/issues">Report Issue</a>
-</p>
+
